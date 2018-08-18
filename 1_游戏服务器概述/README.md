@@ -80,7 +80,8 @@
 - 避免程序异常终止；
 - 持续高效的运算与通信。  
 
-（2）如何才能做到稳定？
+（2）如何才能做到稳定？  
+
 ![服务器稳定](https://github.com/OctopusLian/GameServerIntroduce/blob/master/1_%E6%B8%B8%E6%88%8F%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%A6%82%E8%BF%B0/%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%A8%B3%E5%AE%9A.png)
 
 
